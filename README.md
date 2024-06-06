@@ -7,10 +7,9 @@
 
 
 # Usage:
-- git clone `https://github.com/DrMasaDr/XSS-SCAN`
-- cd XSS-SCAN
-- python3 DXD.py
-- python3 DXD.py -u (inter website)
+- git clone `https://github.com/DrMasaDr/DXD-FISH`
+- cd DXD-FISH
+- bash DXD.sh 
 
 ## Main features
 
