@@ -1,8 +1,6 @@
 <h1>DXD FISH </h1>                                                 
 <p>Using DXD FISH tool you can generat different phishing links of wishing or custom sites which can grab victim front camera pictures and also gives you lockup information of target ip address.
 <p1>
- 
- <h3 style="text-align: left;"><span style="font-family: arial;">Bug Fixes &amp; New Features Added</span></h3><div><ul style="text-align: left;"><li><span style="font-family: arial;">Ngrok Tunnel Error Fixed</span></li><li><span style="font-family: arial;">Sub-Domain Added</span></li><li><span style="font-family: arial;">Live-Meeting Page Added</span></li><li><span style="font-family: arial;">Live YouTube Page Added(Custom)</span></li><li><span style="font-family: arial;">Festival Wishing Page Added(Custom)</span></li></ul>
 
  
 
