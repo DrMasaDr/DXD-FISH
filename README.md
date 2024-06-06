@@ -16,11 +16,9 @@
 
 ## Main features
 
-* crawling all links on a website ( crawler engine )
-* POST and GET forms are supported
-* many settings that can be customized
-* Advanced error handling
-* Multiprocessing support.✔️
+ <h3 style="text-align: left;"><span style="font-family: arial;">Bug Fixes &amp; New Features Added</span></h3><div><ul style="text-align: left;"><li><span style="font-family: arial;">Ngrok Tunnel Error Fixed</span></li><li><span style="font-family: arial;">Sub-Domain Added</span></li><li><span style="font-family: arial;">Live-Meeting Page Added</span></li><li><span style="font-family: arial;">Live YouTube Page Added(Custom)</span></li><li><span style="font-family: arial;">Festival Wishing Page Added(Custom)</span></li></ul>
+
+ 
 * ETC....
 ## CONTACT ME ON
 
